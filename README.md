@@ -89,6 +89,13 @@ URL dasar API ada di `lib/services/api_services.dart` pada variabel `baseUrl`. J
 - Autentikasi masih sederhana (hardcode) dan belum terhubung ke database pengguna.
 - Tombol "Ubah Profil" masih berupa tampilan awal dan belum menyimpan perubahan.
 
+## Demo
+
+Coba aplikasinya langsung di browser (tanpa download):
+**https://evnydprtma12.github.io/app-Tugasku/**
+
+Akun login: `admin` / `admin`
+
 ## Kontak
 
 - **Nama:** [Evan Yudi Pratama]
