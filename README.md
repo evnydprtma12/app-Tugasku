@@ -48,8 +48,8 @@ lib/
 
 ```bash
 # 1. Clone repository
-git clone <https://github.com/evnydprtma12/app-Tugasku>
-cd <app-Tugasku>
+git clone https://github.com/evnydprtma12/app-Tugasku
+cd app-Tugasku
 
 # 2. Unduh dependensi
 flutter pub get
